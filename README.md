@@ -13,15 +13,15 @@ Inspirado en el video de DOT CSV:
 
 ## Instrucciones:
 
-- ### Dentro del código elige un modelo de iniciación o crea el tuyo.
+- #### Dentro del código elige un modelo de iniciación o crea el tuyo.
 
-- ### Ejecuta el código para que se inicie el juego
+- #### Ejecuta el código para que se inicie el juego
 
-- ### Pausa el juego con cualquier boton del teclado
+- #### Pausa el juego con cualquier boton del teclado
 
-- ### Con el botón izquierdo del ratón, cambias el estado de una célula
+- #### Con el botón izquierdo del ratón, cambias el estado de una célula
 
-- ### Utiliza el raton para modificar los autómatas o crear nuevos con el juego pausado
+- #### Utiliza el raton para modificar los autómatas o crear nuevos con el juego pausado
 
 ---
 
