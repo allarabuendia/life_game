@@ -23,6 +23,7 @@ Inspirado en el video de DOT CSV:
 
 - #### Utiliza el raton para modificar los autómatas o crear nuevos con el juego pausado.
 
+
 ---
 
 
